@@ -1,0 +1,10 @@
+# PyInstaller build intermediates
+edu-remote-admin/build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Built binaries - upload these to GitHub Releases instead
+# (smaller repo + they get a direct download URL for auto-update)
+edu-remote-admin/dist/
